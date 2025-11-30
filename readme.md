@@ -51,18 +51,7 @@ This project is ideal for showcasing skills in **HTML, CSS, JavaScript**, and ov
 
 ---
 
-## 📂 Folder Structure
 
-/DevoraX
-│
-├── /assets
-│ ├── /images
-│ ├── /css
-│ └── /js
-├── index.html
-└── README.md
-
-yaml
 
 
 
